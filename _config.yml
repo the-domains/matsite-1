@@ -1,19 +1,4 @@
-name: Matsite 1
-favicon: null
-layout_spectrum: 0.5103697492741048
 typography_spectrum: 0.8606400785502046
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 0.968555880477652
   saturation: 0.04957917286083102
   rhythmicContrast: 0.11824344703927636
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5103697492741048
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Matsite 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Weddings
 purpose: []
